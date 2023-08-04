@@ -8,4 +8,4 @@ As part of the assignment that this webpage was intended for, I was instructed t
 
 If you would like to see how the webpage appears on a normal browser, click on the link below:
 
-[__*Diego G. Ureno - Personal Webpage*__](dieure334.github.io)
+[__*Diego G. Ureno - Personal Webpage*__](https://dieure334.github.io)
